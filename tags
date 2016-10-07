@@ -1,0 +1,124 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AF_LOCAL	src/unp.h	173;"	d
+BUFFSIZE	src/unp.h	197;"	d
+CMSG_LEN	src/unp.h	154;"	d
+CMSG_SPACE	src/unp.h	158;"	d
+DIR_MODE	src/unp.h	240;"	d
+DirectoryOfThisScript	project/manobject1/.ycm_extra_conf.py	/^def DirectoryOfThisScript():$/;"	f
+FILE_MODE	src/unp.h	238;"	d
+FlagsForFile	project/manobject1/.ycm_extra_conf.py	/^def FlagsForFile( filename, **kwargs ):$/;"	f
+GetCompilationInfoForFile	project/manobject1/.ycm_extra_conf.py	/^def GetCompilationInfoForFile( filename ):$/;"	f
+INADDR_NONE	src/unp.h	98;"	d
+INET6_ADDRSTRLEN	src/unp.h	121;"	d
+INET_ADDRSTRLEN	src/unp.h	113;"	d
+INFTIM	src/unp.h	184;"	d
+INFTIM_UNPH	src/unp.h	187;"	d
+IsHeaderFile	project/manobject1/.ycm_extra_conf.py	/^def IsHeaderFile( filename ):$/;"	f
+LISTENQ	src/unp.h	193;"	d
+MAN_ABORT	project/manobject1/src/sys/man_error.h	10;"	d
+MAN_AGAIN	project/manobject1/src/sys/man_error.h	6;"	d
+MAN_BUSY	project/manobject1/src/sys/man_error.h	7;"	d
+MAN_DECLINED	project/manobject1/src/sys/man_error.h	9;"	d
+MAN_DONE	project/manobject1/src/sys/man_error.h	8;"	d
+MAN_ERROR	project/manobject1/src/sys/man_error.h	5;"	d
+MAN_OK	project/manobject1/src/sys/man_error.h	4;"	d
+MAXLINE	src/unp.h	196;"	d
+MakeRelativePathsInFlagsAbsolute	project/manobject1/.ycm_extra_conf.py	/^def MakeRelativePathsInFlagsAbsolute( flags, working_directory ):$/;"	f
+PF_LOCAL	src/unp.h	176;"	d
+SA	src/unp.h	212;"	d
+SERV_PORT	src/unp.h	200;"	d
+SERV_PORT_STR	src/unp.h	201;"	d
+SHUT_RD	src/unp.h	102;"	d
+SHUT_RDWR	src/unp.h	104;"	d
+SHUT_WR	src/unp.h	103;"	d
+SOURCE_EXTENSIONS	project/manobject1/.ycm_extra_conf.py	/^SOURCE_EXTENSIONS = [ '.cpp', '.cxx', '.cc', '.c', '.m', '.mm' ]$/;"	v
+SUN_LEN	src/unp.h	166;"	d
+Sigfunc	src/unp.h	/^typedef	void	Sigfunc(int);	\/* for signal handlers *\/$/;"	t
+UNIXDG_PATH	src/unp.h	203;"	d
+UNIXSTR_PATH	src/unp.h	202;"	d
+_MAN_ALLOC_H_INCLUDE_	project/manobject1/src/sys/man_alloc.h	2;"	d
+_MAN_ERROR_H_INCLUDE_	project/manobject1/src/sys/man_error.h	2;"	d
+_MAN_LIST_H_INCLUDE_	project/manobject1/src/core/man_list.h	2;"	d
+_MAN_PALLOC_H_INCLUDE_	project/manobject1/src/core/man_palloc.h	2;"	d
+_MAN_STRING_H_INCLUDE_	project/manobject1/src/core/man_string.h	2;"	d
+_MAN_SYSLOG_H_INCLUDE_	project/manobject1/src/sys/man_syslog.h	2;"	d
+_MAN_TYPE_H_INCLUDE_	project/manobject1/src/sys/man_type.h	2;"	d
+__SS_ALIGNSIZE	src/unp.h	219;"	d
+__SS_MAXSIZE	src/unp.h	218;"	d
+__SS_PAD1SIZE	src/unp.h	221;"	d
+__SS_PAD1SIZE	src/unp.h	223;"	d
+__SS_PAD2SIZE	src/unp.h	225;"	d
+__ss_align	src/unp.h	/^	int64_t		__ss_align;$/;"	m	struct:sockaddr_storage
+__ss_pad1	src/unp.h	/^	char		__ss_pad1[__SS_PAD1SIZE];$/;"	m	struct:sockaddr_storage
+__ss_pad2	src/unp.h	/^	char		__ss_pad2[__SS_PAD2SIZE];$/;"	m	struct:sockaddr_storage
+__unp_h	src/unp.h	5;"	d
+bzero	src/unp.h	130;"	d
+compilation_database_folder	project/manobject1/.ycm_extra_conf.py	/^compilation_database_folder = ''$/;"	v
+daemon_proc	src/unp-error.c	/^int		daemon_proc;		\/* set nonzero by daemon_init() *\/$/;"	v
+database	project/manobject1/.ycm_extra_conf.py	/^  database = None$/;"	v
+database	project/manobject1/.ycm_extra_conf.py	/^  database = ycm_core.CompilationDatabase( compilation_database_folder )$/;"	v
+date	project/manobject1/src/core/man_string.h	/^	u_char		*date;$/;"	m	struct:__anon1
+elts	project/manobject1/src/core/man_list.h	/^	void			*elts;$/;"	m	struct:man_list_part_s
+err_doit	src/unp-error.c	/^err_doit(int errnoflag, int level, const char *fmt, va_list ap)$/;"	f	file:
+err_dump	src/unp-error.c	/^err_dump(const char *fmt, ...)$/;"	f
+err_msg	src/unp-error.c	/^err_msg(const char *fmt, ...)$/;"	f
+err_quit	src/unp-error.c	/^err_quit(const char *fmt, ...)$/;"	f
+err_ret	src/unp-error.c	/^err_ret(const char *fmt, ...)$/;"	f
+err_sys	src/unp-error.c	/^err_sys(const char *fmt, ...)$/;"	f
+flags	project/manobject1/.ycm_extra_conf.py	/^flags = [$/;"	v
+gethostbyname2	src/unp.h	137;"	d
+if_index	src/unp.h	/^  unsigned int   if_index;  \/* 1, 2, ... *\/$/;"	m	struct:if_nameindex
+if_name	src/unp.h	/^  char          *if_name;   \/* null-terminated name: "le0", ... *\/$/;"	m	struct:if_nameindex
+if_nameindex	src/unp.h	/^struct if_nameindex {$/;"	s
+ipi_addr	src/unp.h	/^  struct in_addr	ipi_addr;	\/* dst IPv4 address *\/$/;"	m	struct:unp_in_pktinfo	typeref:struct:unp_in_pktinfo::in_addr
+ipi_ifindex	src/unp.h	/^  int				ipi_ifindex;\/* received interface index *\/$/;"	m	struct:unp_in_pktinfo
+key	project/manobject1/src/core/man_string.h	/^	man_str_t	 key;$/;"	m	struct:__anon2
+last	project/manobject1/src/core/man_list.h	/^	man_list_part_t *last;$/;"	m	struct:__anon3
+len	project/manobject1/src/core/man_string.h	/^	size_t		 len;$/;"	m	struct:__anon1
+main	src/file.c	/^int main()$/;"	f
+man_alloc	project/manobject1/src/sys/man_alloc.c	/^void *man_alloc(size_t size)$/;"	f
+man_cacheline_size	project/manobject1/src/sys/man_alloc.c	/^man_uint_t	man_cacheline_size;$/;"	v
+man_calloc	project/manobject1/src/sys/man_alloc.c	/^void *man_calloc(size_t size)$/;"	f
+man_char_t	project/manobject1/src/sys/man_type.h	/^typedef char			man_char_t;$/;"	t
+man_flag_t	project/manobject1/src/sys/man_type.h	/^typedef intptr_t		man_flag_t;$/;"	t
+man_free	project/manobject1/src/sys/man_alloc.h	10;"	d
+man_inline	project/manobject1/src/sys/man_type.h	18;"	d
+man_int_t	project/manobject1/src/sys/man_type.h	/^typedef intptr_t		man_int_t;$/;"	t
+man_keyval_t	project/manobject1/src/core/man_string.h	/^} man_keyval_t;$/;"	t	typeref:struct:__anon2
+man_list_part_s	project/manobject1/src/core/man_list.h	/^struct man_list_part_s {$/;"	s
+man_list_part_t	project/manobject1/src/core/man_list.h	/^typedef sturct man_list_part_s  man_list_part_t;$/;"	t
+man_list_t	project/manobject1/src/core/man_list.h	/^} man_list_t;$/;"	t	typeref:struct:__anon3
+man_memalign	project/manobject1/src/sys/man_alloc.c	/^void *man_memalign(size_t alignment, size_t size)$/;"	f
+man_pagesize	project/manobject1/src/sys/man_alloc.c	/^man_uint_t	man_pagesize;$/;"	v
+man_pagesize_shift	project/manobject1/src/sys/man_alloc.c	/^man_uint_t	man_pagesize_shift;$/;"	v
+man_str_t	project/manobject1/src/core/man_string.h	/^} man_str_t;$/;"	t	typeref:struct:__anon1
+man_strncmp	project/manobject1/src/core/man_string.h	16;"	d
+man_syslog	project/manobject1/src/sys/man_syslog.c	/^void man_syslog(int level, const char *format, ...)$/;"	f
+man_uchar_t	project/manobject1/src/sys/man_type.h	/^typedef u_char			man_uchar_t;$/;"	t
+man_uint_t	project/manobject1/src/sys/man_type.h	/^typedef uintptr_t		man_uint_t;$/;"	t
+max	src/unp.h	246;"	d
+min	src/unp.h	245;"	d
+nalloc	project/manobject1/src/core/man_list.h	/^	man_uint_t		 nalloc;$/;"	m	struct:__anon3
+nelts	project/manobject1/src/core/man_list.h	/^	man_uint_t		 nelts;$/;"	m	struct:man_list_part_s
+next	project/manobject1/src/core/man_list.h	/^	man_list_part_t *next;$/;"	m	struct:man_list_part_s
+ngx_list_init	project/manobject1/src/core/man_list.h	/^ngx_list_init(man_list_t *list, man_pool_t *pool, man_uint_t n, size_t size)$/;"	f
+part	project/manobject1/src/core/man_list.h	/^	man_list_part_t  part;$/;"	m	struct:__anon3
+pool	project/manobject1/src/core/man_list.h	/^	man_pool_t		*pool;$/;"	m	struct:__anon3
+recv	src/unp.h	90;"	d
+recv	src/unp.h	92;"	d
+send	src/unp.h	91;"	d
+send	src/unp.h	93;"	d
+size	project/manobject1/src/core/man_list.h	/^	size_t			 size;$/;"	m	struct:__anon3
+sockaddr_storage	src/unp.h	/^struct sockaddr_storage {$/;"	s
+ss_family	src/unp.h	/^	sa_family_t	ss_family;$/;"	m	struct:sockaddr_storage
+ss_len	src/unp.h	/^	u_char		ss_len;$/;"	m	struct:sockaddr_storage
+timespec	src/unp.h	/^struct timespec {$/;"	s
+tv_nsec	src/unp.h	/^  long		tv_nsec;	\/* and nanoseconds *\/$/;"	m	struct:timespec
+tv_sec	src/unp.h	/^  time_t	tv_sec;		\/* seconds *\/$/;"	m	struct:timespec
+unp_in_pktinfo	src/unp.h	/^struct unp_in_pktinfo {$/;"	s
+value	project/manobject1/src/core/man_string.h	/^	man_str_t	 value;$/;"	m	struct:__anon2
